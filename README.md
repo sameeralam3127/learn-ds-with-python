@@ -1,2 +1,20 @@
-# learn-ds-with-python
-A hands-on guide to learning Data Science with Python.   This repository contains practice notebooks, code examples, and exercises covering key data science topics — from data cleaning and visualization to machine learning.   Great for beginners and learners who want to practice Python for Data Science step by step.
+# Learn Data Science with Python 
+
+Welcome to **Learn DS with Python**!  
+This repo is a collection of **hands-on practice notebooks, examples, and exercises** to help you build your Data Science skills using Python.  
+
+
+
+## Topics Covered
+- Python Basics for Data Science  
+- Data Wrangling with **Pandas & NumPy**  
+- Data Visualization with **Matplotlib & Seaborn**  
+- Exploratory Data Analysis (EDA)  
+- Statistics for Data Science  
+- Machine Learning with **Scikit-learn**  
+- Real-world Mini Projects  
+
+
+
+
+
