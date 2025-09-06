@@ -8,7 +8,7 @@ This repo is a collection of **hands-on practice notebooks, examples, and exerci
 ## Topics Covered
 - Python Basics for Data Science  
 - Data Wrangling with **Pandas & NumPy**  
-- Data Visualization with **Matplotlib & Seaborn**  
+- Data Visualization with **Matplotlib,sklearn & Seaborn**  
 - Exploratory Data Analysis (EDA)  
 - Statistics for Data Science  
 - Machine Learning with **Scikit-learn**  
