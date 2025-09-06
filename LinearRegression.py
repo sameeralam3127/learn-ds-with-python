@@ -40,5 +40,3 @@ plt.ylabel("Salary")
 plt.title("Linear Regression: Salary vs Years of Experience")
 plt.legend()
 plt.show()
-
-
