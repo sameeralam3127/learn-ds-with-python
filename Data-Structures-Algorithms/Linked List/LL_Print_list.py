@@ -35,7 +35,6 @@ class LinkedList:
         self.length += 1
 
 
-
 my_linked_list = LinkedList(1)
 my_linked_list.append(2)
 my_linked_list.append(3)
