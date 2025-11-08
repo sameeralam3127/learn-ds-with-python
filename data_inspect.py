@@ -8,6 +8,7 @@ df = pd.read_excel(file_path)
 
 # Summary statistics
 print("\nSummary Statistics:")
-print(df.describe(include='all').T)
-
+#print(df.describe(include='all').T)
+print(df.groupby('Region')['Sales'].sum())
+print(df['Customer Name'].value_counts().head())
 
